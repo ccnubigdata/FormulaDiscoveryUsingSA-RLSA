@@ -1,6 +1,6 @@
 # Formula Discovery using SA/RLSA
 
-This is a Pytorch implementation for the paper "**Discovering elementary mathematical formulas using AI and prior knowledge**\".
+This is a Pytorch implementation for the paper "**A two-stage symbolic regression method for discovering mathematical formulas**\".
 
 We propose a method that uses prior knowledge to generate reasonable mathematical terms from given variables and then uses simulated annealing (SA) or reinforcement learning enhanced SA (RLSA) to discover mathematical relationships between those terms.
 
